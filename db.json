@@ -1,0 +1,511 @@
+{
+  "movies": [
+    {
+      "title": "The Last Boy Scout",
+      "_year_data": "1991",
+      "year": 1991,
+      "rated": "R",
+      "released": "1991-12-13T08:00:00.000Z",
+      "runtime": "105 min",
+      "genres": "Action, Comedy, Crime, Thriller",
+      "director": "Tony Scott",
+      "writer": "Shane Black (story), Greg Hicks (story), Shane Black (screenplay)",
+      "actors": "Bruce Willis, Damon Wayans, Chelsea Field, Noble Willingham",
+      "plot": "An private detective's protected female witness is murdered, prompting him and the victim's boyfriend to investigate the crime that leads to a corrupt politician and a crooked football team owner.",
+      "languages": "English",
+      "country": "USA",
+      "awards": "2 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2QxYjAwNDUtYWIzMC00ZTg3LTg5YjMtOGM4YzAyZmUxMzI2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "46%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "52/100"
+        }
+      ],
+      "metascore": "52",
+      "rating": 7,
+      "votes": "84,634",
+      "imdbid": "tt0102266",
+      "type": "movie",
+      "dvd": "26 May 1998",
+      "boxoffice": "N/A",
+      "production": "Warner Home Video",
+      "website": "N/A",
+      "response": "True",
+      "name": "The Last Boy Scout",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0102266"
+    },
+    {
+      "title": "Glengarry Glen Ross",
+      "_year_data": "1992",
+      "year": 1992,
+      "rated": "R",
+      "released": "1992-10-02T07:00:00.000Z",
+      "runtime": "100 min",
+      "genres": "Crime, Drama, Mystery",
+      "director": "James Foley",
+      "writer": "David Mamet (based on the play by), David Mamet (screenplay by)",
+      "actors": "Al Pacino, Jack Lemmon, Alec Baldwin, Alan Arkin",
+      "plot": "The real story behind the world of sales. This is a realistic portrayal of what it is to try making a life in high pressure sales with all its highs and lows; promises of fortunes and deliveries of dross. Red-leads and dead-leads are to blame for life's outcomes. Living with \"Objection, Rebuttal, Close\".",
+      "languages": "English",
+      "country": "USA",
+      "awards": "Nominated for 1 Oscar. Another 8 wins & 12 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTYzN2MxODMtMDBhOC00Y2M0LTgzMTItMzQ4NDIyYWIwMDEzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "metascore": "80",
+      "rating": 7.8,
+      "votes": "87,332",
+      "imdbid": "tt0104348",
+      "type": "movie",
+      "dvd": "20 Feb 2007",
+      "boxoffice": "N/A",
+      "production": "Artisan Home Entertainment",
+      "website": "http://www.artisanent.com/glengarryglenross",
+      "response": "True",
+      "name": "Glengarry Glen Ross",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0104348"
+    },
+    {
+      "title": "The Wicker Man",
+      "_year_data": "2006",
+      "year": 2006,
+      "rated": "PG-13",
+      "released": "2006-09-01T07:00:00.000Z",
+      "runtime": "102 min",
+      "genres": "Mystery, Thriller",
+      "director": "Neil LaBute",
+      "writer": "Neil LaBute (screenplay), Anthony Shaffer",
+      "actors": "Nicolas Cage, Ellen Burstyn, Kate Beahan, Frances Conroy",
+      "plot": "While recovering from a tragic accident on the road, the patrolman Edward Malus receives a letter from his former fiancée Willow, who left him years ago without any explanation, telling that her daughter Rowan is missing. Edward travels to the private island of Summerisle, where Willow lives in an odd community that plant fruits, and she reveals that Rowan is actually their daughter. Along his investigation with the hostile and unhelpful dwellers, Edward discloses that the locals are pagans, practicing old rituals to improve their harvest, and Rowan is probably alive and being prepared to be sacrificed. When he locates the girl, he finds also the dark truth about the wicker man.",
+      "languages": "English",
+      "country": "USA, Germany, Canada",
+      "awards": "2 wins & 7 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTI3NzQ3NjgzN15BMl5BanBnXkFtZTYwMjk4NTU3._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "3.7/10"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "36/100"
+        }
+      ],
+      "metascore": "36",
+      "rating": 3.7,
+      "votes": "58,954",
+      "imdbid": "tt0450345",
+      "type": "movie",
+      "dvd": "01 Aug 2006",
+      "boxoffice": "N/A",
+      "production": "N/A",
+      "website": "N/A",
+      "response": "True",
+      "name": "The Wicker Man",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0450345"
+    },
+    {
+      "title": "Democracies in Chinatown: 1974-1994",
+      "_year_data": "2009",
+      "year": 2009,
+      "rated": "N/A",
+      "released": "2009-09-09T07:00:00.000Z",
+      "runtime": "60 min",
+      "genres": "Documentary",
+      "director": "Susan Yung",
+      "writer": "N/A",
+      "actors": "N/A",
+      "plot": "N/A",
+      "languages": "N/A",
+      "country": "USA",
+      "awards": "N/A",
+      "poster": "N/A",
+      "ratings": [],
+      "metascore": "N/A",
+      "rating": 0,
+      "votes": "N/A",
+      "imdbid": "tt1540856",
+      "type": "movie",
+      "dvd": "N/A",
+      "boxoffice": "N/A",
+      "production": "N/A",
+      "website": "N/A",
+      "response": "True",
+      "name": "Democracies in Chinatown: 1974-1994",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt1540856"
+    },
+    {
+      "title": "Black Swan",
+      "_year_data": "2010",
+      "year": 2010,
+      "rated": "R",
+      "released": "2010-12-17T08:00:00.000Z",
+      "runtime": "108 min",
+      "genres": "Drama, Thriller",
+      "director": "Darren Aronofsky",
+      "writer": "Mark Heyman (screenplay), Andres Heinz (screenplay), John J. McLaughlin (screenplay), Andres Heinz (story)",
+      "actors": "Natalie Portman, Mila Kunis, Vincent Cassel, Barbara Hershey",
+      "plot": "Nina (Portman) is a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her obsessive former ballerina mother Erica (Hershey) who exerts a suffocating control over her. When artistic director Thomas Leroy (Cassel) decides to replace prima ballerina Beth MacIntyre (Ryder) for the opening production of their new season, Swan Lake, Nina is his first choice. But Nina has competition: a new dancer, Lily (Kunis), who impresses Leroy as well. Swan Lake requires a dancer who can play both the White Swan with innocence and grace, and the Black Swan, who represents guile and sensuality. Nina fits the White Swan role perfectly but Lily is the personification of the Black Swan. As the two young dancers expand their rivalry into a twisted friendship, Nina begins to get more in touch with her dark side - a recklessness that threatens to destroy her.",
+      "languages": "English, French, Italian",
+      "country": "USA",
+      "awards": "Won 1 Oscar. Another 91 wins & 257 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "79/100"
+        }
+      ],
+      "metascore": "79",
+      "rating": 8,
+      "votes": "632,220",
+      "imdbid": "tt0947798",
+      "type": "movie",
+      "dvd": "29 Mar 2011",
+      "boxoffice": "$106,952,327",
+      "production": "Fox Searchlight",
+      "website": "http://www.BlackSwan2010.com/",
+      "response": "True",
+      "name": "Black Swan",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0947798"
+    },
+    {
+      "title": "Crash",
+      "_year_data": "2004",
+      "year": 2004,
+      "rated": "R",
+      "released": "2005-05-06T07:00:00.000Z",
+      "runtime": "112 min",
+      "genres": "Crime, Drama, Thriller",
+      "director": "Paul Haggis",
+      "writer": "Paul Haggis (story), Paul Haggis (screenplay), Bobby Moresco (screenplay)",
+      "actors": "Karina Arroyave, Dato Bakhtadze, Sandra Bullock, Don Cheadle",
+      "plot": "Over a thirty-six hour period in Los Angeles, a handful of disparate people's lives intertwine as they deal with the tense race relations that belie life in the city. Among the players are: the Caucasian district attorney, who uses race as a political card; his Caucasian wife, who, having recently been carjacked by two black men, believes that her stereotypical views of non-whites is justified and cannot be considered racism; the two black carjackers who use their race both to their advantage and as an excuse; partnered Caucasian police constables, one who is a racist and uses his authority to harass non-whites, and the other who hates his partner because of those racist views, but who may have the same underlying values in his subconscious; a black film director and his black wife, who believes her husband doesn't support their black background enough, especially in light of an incident with the racist white cop; partnered police detectives and sometimes lovers, one Hispanic female and the other black male, the latter who is dealing with a drugged out mother that feels he isn't concerned enough about taking care of family; an East Asian man who is run over but who is hiding some valuable cargo in the back of his van; a Persian store owner, who feels he isn't getting satisfaction from American society when his store is robbed time and time again; and a Hispanic locksmith, who just wants to keep his family, especially his young daughter, safe in a seemingly unsafe world.",
+      "languages": "English, Persian, Spanish, Mandarin, Korean",
+      "country": "USA, Germany",
+      "awards": "Won 3 Oscars. Another 64 wins & 111 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "74%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "metascore": "69",
+      "rating": 7.8,
+      "votes": "396,026",
+      "imdbid": "tt0375679",
+      "type": "movie",
+      "dvd": "06 Sep 2005",
+      "boxoffice": "$55,382,847",
+      "production": "Lions Gate Films",
+      "website": "http://www.crashfilm.com/",
+      "response": "True",
+      "name": "Crash",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0375679"
+    },
+    {
+      "title": "Godzilla",
+      "_year_data": "2014",
+      "year": 2014,
+      "rated": "PG-13",
+      "released": "2014-05-16T07:00:00.000Z",
+      "runtime": "123 min",
+      "genres": "Action, Adventure, Sci-Fi, Thriller",
+      "director": "Gareth Edwards",
+      "writer": "Max Borenstein (screenplay), Dave Callaham (story), Ishirô Honda (based on the character created by), Takeo Murata (based on the character created by), Shigeru Kayama (based on the character created by)",
+      "actors": "Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston",
+      "plot": "In 1999, the Janjira nuclear plant was mysteriously destroyed with most hands lost including supervisor Joe Brody's colleague and wife, Sandra. Years later, Joe's son, Ford, a US Navy ordnance disposal officer, must go to Japan to help his estranged father who obsessively searches for the truth of the incident. In doing so, father and son discover the disaster's secret cause on the wreck's very grounds. This enables them to witness the reawakening of a terrible threat to all of Humanity, which is made all the worse with a second secret revival elsewhere. Against this cataclysm, the only hope for the world may be Godzilla, but the challenge for the King of the Monsters will be great even as Humanity struggles to understand the destructive ally they have.",
+      "languages": "English, Japanese",
+      "country": "USA, Japan",
+      "awards": "6 wins & 31 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "75%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "62/100"
+        }
+      ],
+      "metascore": "62",
+      "rating": 6.4,
+      "votes": "340,635",
+      "imdbid": "tt0831387",
+      "type": "movie",
+      "dvd": "16 Sep 2014",
+      "boxoffice": "$172,962,996",
+      "production": "Warner Bros Pictures",
+      "website": "http://godzillamovie.com",
+      "response": "True",
+      "name": "Godzilla",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0831387"
+    },
+    {
+      "title": "My Bloody Valentine",
+      "_year_data": "2009",
+      "year": 2009,
+      "rated": "R",
+      "released": "2009-01-16T08:00:00.000Z",
+      "runtime": "101 min",
+      "genres": "Horror, Mystery, Thriller",
+      "director": "Patrick Lussier",
+      "writer": "Todd Farmer (screenplay), Zane Smith (screenplay), John Beaird, Stephen A. Miller",
+      "actors": "Jensen Ackles, Jaime King, Kerr Smith, Betsy Rue",
+      "plot": "In the mining town of Harmony, a drilling accident is caused by the son of the owner, Tom Hanniger. The mine collapses, burying six miners alive. The rescue team finds only Harry Warden alive, but in coma, and the other miners murdered by his pickax, and they conclude that Harry killed them to save oxygen for himself. On Valentine's Day, Harry awakes from his coma in the local hospital, and he kills twenty-two people, including a group of teenagers that are partying in the mine. Harry is killed by the deputy, but the only survivors are Tom Hanniger, his girlfriend Sarah, their friend Axel Palmer and his girlfriend Irene. Ten years later, Tom returns to Harmony after the death of his father. Tom has decided to sell the Hanniger Mine, and finds that Sarah has married Axel, who is now the local sheriff, and they have a son named Noah. On Valentine's Day, Harry Warden also returns, seeking revenge against those that had escaped his pickax in the past, and Tom is accused by Axel and other locals, who in turn makes accusations against Axel.",
+      "languages": "English",
+      "country": "USA",
+      "awards": "4 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTQ1OTcxOF5BMl5BanBnXkFtZTcwMjc2ODUxMg@@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "51/100"
+        }
+      ],
+      "metascore": "51",
+      "rating": 5.5,
+      "votes": "50,082",
+      "imdbid": "tt1179891",
+      "type": "movie",
+      "dvd": "19 May 2009",
+      "boxoffice": "$51,527,787",
+      "production": "Lionsgate Films",
+      "website": "http://www.mybloodyvalentinein3d.com/",
+      "response": "True",
+      "name": "My Bloody Valentine",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt1179891"
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "_year_data": "2011",
+      "year": 2011,
+      "rated": "PG-13",
+      "released": "2011-07-22T07:00:00.000Z",
+      "runtime": "124 min",
+      "genres": "Action, Adventure, Sci-Fi",
+      "director": "Joe Johnston",
+      "writer": "Christopher Markus (screenplay), Stephen McFeely (screenplay), Joe Simon (comic books), Jack Kirby (comic books)",
+      "actors": "Chris Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones",
+      "plot": "It is 1942, America has entered World War II, and sickly but determined Steve Rogers is frustrated at being rejected yet again for military service. Everything changes when Dr. Erskine recruits him for the secret Project Rebirth. Proving his extraordinary courage, wits and conscience, Rogers undergoes the experiment and his weak body is suddenly enhanced into the maximum human potential. When Dr. Erskine is then immediately assassinated by an agent of Nazi Germany's secret HYDRA research department (headed by Johann Schmidt, a.k.a. the Red Skull), Rogers is left as a unique man who is initially misused as a propaganda mascot; however, when his comrades need him, Rogers goes on a successful adventure that truly makes him Captain America, and his war against Schmidt begins.",
+      "languages": "English, Norwegian, French",
+      "country": "USA",
+      "awards": "3 wins & 46 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "80%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "metascore": "66",
+      "rating": 6.9,
+      "votes": "630,462",
+      "imdbid": "tt0458339",
+      "type": "movie",
+      "dvd": "25 Oct 2011",
+      "boxoffice": "$176,636,816",
+      "production": "Paramount Pictures",
+      "website": "http://captainamerica.marvel.com/",
+      "response": "True",
+      "name": "Captain America: The First Avenger",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0458339"
+    },
+    {
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "_year_data": "2011",
+      "year": 2011,
+      "rated": "PG-13",
+      "released": "2012-02-17T08:00:00.000Z",
+      "runtime": "96 min",
+      "genres": "Action, Fantasy, Thriller",
+      "director": "Mark Neveldine, Brian Taylor",
+      "writer": "Scott M. Gimple (screenplay), Seth Hoffman (screenplay), David S. Goyer (screenplay), David S. Goyer (story)",
+      "actors": "Nicolas Cage, Violante Placido, Ciarán Hinds, Idris Elba",
+      "plot": "Johnny Blaze, a man who made a deal with the Devil who called himself Mephistopheles at the time (now Roarke), is on the run trying to make sure no-one is harmed by his alter ego, The Ghost Rider. He is approached by a Monk named Moreau who tells him that he can help be him free of the Rider, but first, he needs Johnny's help to protect a boy, whom Roarke has plans for, to help him take human form.",
+      "languages": "English, Romanian",
+      "country": "USA, United Arab Emirates",
+      "awards": "4 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNDM5MDEzOF5BMl5BanBnXkFtZTcwNDEyNTUxNw@@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "4.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "18%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "34/100"
+        }
+      ],
+      "metascore": "34",
+      "rating": 4.3,
+      "votes": "101,398",
+      "imdbid": "tt1071875",
+      "type": "movie",
+      "dvd": "12 Jun 2012",
+      "boxoffice": "$51,774,002",
+      "production": "Sony Pictures",
+      "website": "http://www.thespiritofvengeance.com/",
+      "response": "True",
+      "name": "Ghost Rider: Spirit of Vengeance",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt1071875"
+    },
+    {
+      "title": "The Last Emperor",
+      "_year_data": "1987",
+      "year": 1987,
+      "rated": "PG-13",
+      "released": "1988-04-15T07:00:00.000Z",
+      "runtime": "163 min",
+      "genres": "Biography, Drama, History",
+      "director": "Bernardo Bertolucci",
+      "writer": "Mark Peploe (screenplay), Bernardo Bertolucci (screenplay), Enzo Ungari (initial screenplay collaboration)",
+      "actors": "John Lone, Joan Chen, Peter O'Toole, Ruocheng Ying",
+      "plot": "This sweeping account of the life of Pu-Yi, the last emperor of China, follows the leader's tumultuous reign. After being captured by the Red Army as a war criminal in 1950, Pu-Yi recalls his childhood from prison. He remembers his lavish youth in the Forbidden City, where he was afforded every luxury but unfortunately sheltered from the outside world and complex political situation surrounding him. As revolution sweeps through China, the world Pu-Yi knew is dramatically upended.",
+      "languages": "English, Mandarin, Japanese",
+      "country": "UK, Italy, China, France",
+      "awards": "Won 9 Oscars. Another 47 wins & 16 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTk0NDU4YmItOTk0ZS00ODc2LTkwNGItNWI5MDJkNTJiYWMxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "76/100"
+        }
+      ],
+      "metascore": "76",
+      "rating": 7.8,
+      "votes": "83,181",
+      "imdbid": "tt0093389",
+      "type": "movie",
+      "dvd": "20 Mar 2001",
+      "boxoffice": "N/A",
+      "production": "Columbia Pictures",
+      "website": "N/A",
+      "response": "True",
+      "name": "The Last Emperor",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0093389"
+    },
+    {
+      "title": "Nosferatu",
+      "_year_data": "1922",
+      "year": 1922,
+      "rated": "NOT RATED",
+      "released": "1929-06-03T07:00:00.000Z",
+      "runtime": "81 min",
+      "genres": "Fantasy, Horror",
+      "director": "F.W. Murnau",
+      "writer": "Henrik Galeen (screen play), Bram Stoker (based on the novel: \"Dracula\")",
+      "actors": "Max Schreck, Gustav von Wangenheim, Greta Schröder, Georg H. Schnell",
+      "plot": "Wisbourg, Germany based estate agent Knock dispatches his associate, Hutter, to Count Orlok's castle in Transylvania as the Count wants to purchase an isolated house in Wisbourg. They plan on selling him the one across the way from Hutter's own home. Hutter leaves his innocent wife, Ellen, with some friends while he is away. Hutter's trek is an unusual one, with many locals not wanting to take him near the castle where strange events have been occurring. Once at the castle, Hutter does manage to sell the Count the house, but he also notices and feels unusual occurrences, primarily feeling like there is a dark shadow hanging over him, even in the daytime when the Count is unusually asleep. Hutter eventually sees the Count's sleeping chamber in a crypt, and based on a book he has recently read, believes the Count is really a vampire or Nosferatu. While Hutter is trapped in the castle, the Count, hiding in a shipment of coffins, makes his way to Wisbourg, causing death along his way, which most attribute to the plague. Hutter himself tries to rush home to save his town and most importantly save Ellen from Nosferatu's imminent arrival. In Wisbourg, Ellen can feel the impending darkness as Nosferatu gets closer. But she learns that a sinless woman can sacrifice herself to kill the vampire. Will Hutter be able to save Ellen either from Nosferatu and/or her self-sacrifice?",
+      "languages": "German",
+      "country": "Germany",
+      "awards": "1 win & 2 nominations.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTAxYjEyMTctZTg3Ni00MGZmLWIxMmMtOGM2NTFiY2U3MmExXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        }
+      ],
+      "metascore": "N/A",
+      "rating": 8,
+      "votes": "78,426",
+      "imdbid": "tt0013442",
+      "type": "movie",
+      "dvd": "22 Oct 1997",
+      "boxoffice": "N/A",
+      "production": "Film Arts Guild",
+      "website": "N/A",
+      "response": "True",
+      "name": "Nosferatu",
+      "series": false,
+      "imdburl": "https://www.imdb.com/title/tt0013442"
+    }
+  ]
+}
